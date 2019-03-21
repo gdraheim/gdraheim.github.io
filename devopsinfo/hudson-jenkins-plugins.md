@@ -1,5 +1,5 @@
 ---
-date: 2015-12-14 14:14
+date: 2015-12-14 20:57
 ---
 # Differences of Jenkins vs Hudson  for Plugin Developers
 
