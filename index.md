@@ -42,4 +42,7 @@ And some older stuff on sourceforge.net
 * [sourceforge/xm-tool](https://sourceforge.net/projects/xm-tool/)
 * [sourceforge/mpegsplit](https://sourceforge.net/projects/mpegsplit/)
 
+Some short articles
+* [devopsinfo/hudson-jenkins-plugins](devopsinfo/hudson-jenkins-plugins)
+
 [edit](https://github.com/gdraheim/gdraheim.github.io/edit/master/index.md) 

@@ -7,8 +7,8 @@ As many people may remember, when Oracle bought Sun Microsystems
 in 2009/2010 it made a lot of management errors in the communication
 with the Open Source communities that had evolved around software
 iniated by Sun. One of these projects was the Hudson CI server which
-made its lead developer Kohsuke Kawaguchi to leave Oracle in January
-2010. He was still contracted by Oracle but according to
+made its lead developer Kohsuke Kawaguchi to leave Oracle in 
+January 2010. He was still contracted by Oracle but according to
 [his LinkedIn profile](https://www.linkedin.com/in/kohsukekawaguchi)
 he went to work full time for CloudBees since November 2010, a
 startup that he was helping to found (coming
@@ -51,3 +51,5 @@ actually compile the source code in the respective environment.
 In the end it seems to be easy to port a plugin back and forth
 and as such, a company is not bound to either Huddson or Jenkins
 when deciding for a plugin development. Just do it.
+
+_originally published on ~~devopsinfo.wordpress.com~~ on 14. December 2015_
