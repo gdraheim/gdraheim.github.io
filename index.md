@@ -3,9 +3,9 @@
 There are a couple of projects that have been moved now to GitHub.
 
 * https://github.com/gdraheim/docker-systemctl-replacement
-** https://github.com/gdraheim/docker-systemctl-images
-** https://github.com/gdraheim/docker-mirror-packages-repo
-** https://github.com/gdraheim/docker-copyedit
+ * https://github.com/gdraheim/docker-systemctl-images
+ * https://github.com/gdraheim/docker-mirror-packages-repo
+ * https://github.com/gdraheim/docker-copyedit
 
 * https://github.com/gdraheim/zziplib
 * https://github.com/gdraheim/pfe
