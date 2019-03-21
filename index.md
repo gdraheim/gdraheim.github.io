@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+## Guido Draheim
 
-You can use the [editor on GitHub](https://github.com/gdraheim/gdraheim.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+There are a couple of projects that have been moved now to GitHub.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* https://github.com/gdraheim/docker-systemctl-replacement
+** https://github.com/gdraheim/docker-systemctl-images
+** https://github.com/gdraheim/docker-mirror-packages-repo
+** https://github.com/gdraheim/docker-copyedit
 
-### Markdown
+* https://github.com/gdraheim/zziplib
+* https://github.com/gdraheim/pfe
+* https://github.com/gdraheim/SDL_stretch
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+There's more over on bitbucket
 
-```markdown
-Syntax highlighted code block
+* https://bitbucket.org/gdraheim/easyxf
+* https://bitbucket.org/gdraheim/spec2deb
 
-# Header 1
-## Header 2
-### Header 3
+* https://bitbucket.org/gdraheim/trac-proxy-auth
+* https://bitbucket.org/gdraheim/trac-userscriptservernotes-plugin
+* https://bitbucket.org/gdraheim/trac-hgdirmanager
+* https://bitbucket.org/gdraheim/trac-dvbcronrecording-plugin
 
-- Bulleted
-- List
+* https://bitbucket.org/gdraheim/bin-errno
+* https://bitbucket.org/gdraheim/bin-untabify
 
-1. Numbered
-2. List
+And some older stuff on sourceforge.net
 
-**Bold** and _Italic_ and `Code` text
+* http://freespace.sourceforge.net/guidod/ ...
+* http://freespace.sourceforge.net/guidod/xwpe.html
+* http://freespace.sourceforge.net/guidod/htm1-pp.html
+* http://freespace.sourceforge.net/guidod/cc-headers.html
+* http://freespace.sourceforge.net/glib-man/
+* http://freespace.sourceforge.net/guidod/runso.html
+* http://freespace.sourceforge.net/guidod/substruct-c.html
+* http://freespace.sourceforge.net/guidod/submorph-c.html
+* http://xmlg.sourceforge.net/
 
-[Link](url) and ![Image](src)
-```
+* https://sourceforge.net/projects/dvbzap/
+* https://sourceforge.net/projects/dvbcronrec/
+* https://sourceforge.net/projects/ac-archive/
+* https://sourceforge.net/projects/xm-tool/
+* https://sourceforge.net/projects/mpegsplit/
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gdraheim/gdraheim.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[edit](https://github.com/gdraheim/gdraheim.github.io/edit/master/index.md) 
