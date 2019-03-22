@@ -44,5 +44,6 @@ And some older stuff on sourceforge.net
 
 Some short articles
 * [devopsinfo/hudson-jenkins-plugins](devopsinfo/hudson-jenkins-plugins)
+* [devopsinfo/postgresql-kubernetes](devopsinfo/postgresql-kubernetes)
 
 [edit](https://github.com/gdraheim/gdraheim.github.io/edit/master/index.md) 
